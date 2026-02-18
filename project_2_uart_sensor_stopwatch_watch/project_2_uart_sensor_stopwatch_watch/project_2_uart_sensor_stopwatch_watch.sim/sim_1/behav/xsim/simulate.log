@@ -1,0 +1,3 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+$stop called at time : 32446060 ns : File "D:/workplace/Ondevice/project_2_uart_sensor_stopwatch_watch/project_2_uart_sensor_stopwatch_watch.srcs/sim_1/new/tb_sr04.v" Line 77

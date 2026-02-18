@@ -1,0 +1,31 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+              384000 : pass, pop_data = 8d, compare data = 8d
+              394000 : pass, pop_data = 01, compare data = 01
+              414000 : pass, pop_data = 3d, compare data = 3d
+              424000 : pass, pop_data = f9, compare data = f9
+              454000 : pass, pop_data = 12, compare data = 12
+              464000 : pass, pop_data = ce, compare data = ce
+              484000 : pass, pop_data = 65, compare data = 65
+              504000 : pass, pop_data = 80, compare data = 80
+              514000 : pass, pop_data = d5, compare data = d5
+              544000 : pass, pop_data = 0a, compare data = 0a
+              564000 : pass, pop_data = 4f, compare data = 4f
+              604000 : pass, pop_data = 7e, compare data = 7e
+              614000 : pass, pop_data = d9, compare data = d9
+              634000 : pass, pop_data = b7, compare data = b7
+              644000 : pass, pop_data = 5b, compare data = 5b
+              654000 : pass, pop_data = 96, compare data = 96
+              664000 : pass, pop_data = 12, compare data = 12
+              704000 : pass, pop_data = 85, compare data = 85
+              734000 : pass, pop_data = 58, compare data = 58
+              744000 : pass, pop_data = b3, compare data = b3
+              764000 : pass, pop_data = f7, compare data = f7
+              804000 : pass, pop_data = 5a, compare data = 5a
+              814000 : pass, pop_data = df, compare data = df
+              824000 : pass, pop_data = d0, compare data = d0
+              834000 : pass, pop_data = 4e, compare data = 4e
+              874000 : pass, pop_data = 4d, compare data = 4d
+              894000 : pass, pop_data = 76, compare data = 76
+              974000 : pass, pop_data = 88, compare data = 88
+              994000 : pass, pop_data = 1c, compare data = 1c

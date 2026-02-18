@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workplace/Ondevice/project_2_uart_sensor_stopwatch_watch/project_2_uart_sensor_stopwatch_watch.srcs/sources_1/new/sr04_controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_sr04
+INFO: [VRFC 10-311] analyzing module sr04_controller
+INFO: [VRFC 10-311] analyzing module tick_gen_1u
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/workplace/Ondevice/project_2_uart_sensor_stopwatch_watch/project_2_uart_sensor_stopwatch_watch.srcs/sim_1/new/tb_sr04.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_sr04

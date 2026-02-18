@@ -1,0 +1,3 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+$stop called at time : 2291615 ns : File "D:/workplace/Ondevice/0212_uart_fifio/0212_uart_fifio.srcs/sim_1/new/tb_fifo_uart_decorder.v" Line 60

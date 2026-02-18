@@ -1,0 +1,7 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/workplace/Ondevice/0211_fifo/0211_fifo.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+D:/workplace/Ondevice/0211_fifo/0211_fifo.srcs/sim_1/new/tb_fifo.v,1770796111,verilog,,,,tb_fifo,,,,,,,,
+D:/workplace/Ondevice/0211_fifo/0211_fifo.srcs/sources_1/new/fifo.v,1770791218,verilog,,D:/workplace/Ondevice/0211_fifo/0211_fifo.srcs/sim_1/new/tb_fifo.v,,control_unit;fifo;register_file,,,,,,,,

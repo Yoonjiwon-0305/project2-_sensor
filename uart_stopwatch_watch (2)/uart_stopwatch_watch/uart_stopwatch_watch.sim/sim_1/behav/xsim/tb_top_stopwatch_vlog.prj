@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../uart_stopwatch_watch.srcs/sources_1/imports/Ondevice/0205_UART/0205_UART.srcs/sources_1/new/ascii_decorder.v" \
+"../../../../uart_stopwatch_watch.srcs/sources_1/imports/Ondevice/stopwatch_watch/stopwatch_watch.srcs/sources_1/imports/10000_counter/btn_debounce.v" \
+"../../../../uart_stopwatch_watch.srcs/sources_1/imports/Ondevice/stopwatch_watch/stopwatch_watch.srcs/sources_1/imports/10000_counter/control_unit.v" \
+"../../../../uart_stopwatch_watch.srcs/sources_1/imports/Ondevice/stopwatch_watch/stopwatch_watch.srcs/sources_1/imports/10000_counter/fnd_controller.v" \
+"../../../../uart_stopwatch_watch.srcs/sources_1/imports/10000_counter/top_10000_counter.v" \
+"../../../../uart_stopwatch_watch.srcs/sources_1/imports/Ondevice/0205_UART/0205_UART.srcs/sources_1/new/uart_top.v" \
+"../../../../uart_stopwatch_watch.srcs/sim_1/new/tb_uart_stopwatch.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

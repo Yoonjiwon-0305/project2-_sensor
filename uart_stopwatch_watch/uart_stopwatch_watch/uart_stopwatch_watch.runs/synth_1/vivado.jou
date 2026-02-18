@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Feb 11 08:55:26 2026
+# Process ID: 18256
+# Current directory: D:/workplace/Ondevice/uart_stopwatch_watch/uart_stopwatch_watch.runs/synth_1
+# Command line: vivado.exe -log top_stopwatch_watch.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top_stopwatch_watch.tcl
+# Log file: D:/workplace/Ondevice/uart_stopwatch_watch/uart_stopwatch_watch.runs/synth_1/top_stopwatch_watch.vds
+# Journal file: D:/workplace/Ondevice/uart_stopwatch_watch/uart_stopwatch_watch.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source top_stopwatch_watch.tcl -notrace
