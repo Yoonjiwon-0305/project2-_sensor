@@ -1,0 +1,3 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+$stop called at time : 41742105 ns : File "C:/Ondevice/0213_DHT11/0213_DHT11/0213_DHT11.srcs/sim_1/new/tb_dht11.v" Line 77

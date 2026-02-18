@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"tb_sr04_func_impl.v" \
+"../../../../../../../project_2_uart_sensor_stopwatch_watch/project_2_uart_sensor_stopwatch_watch/project_2_uart_sensor_stopwatch_watch.srcs/sim_1/new/tb_sr04.v" \
+
+# Do not sort compile order
+nosort

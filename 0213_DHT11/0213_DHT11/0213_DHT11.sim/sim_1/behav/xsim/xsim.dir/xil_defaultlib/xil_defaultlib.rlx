@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Ondevice/0213_DHT11/0213_DHT11/0213_DHT11.sim/sim_1/behav/xsim/glbl.v,1605673888,verilog,,,,glbl,,,,,,,,
+C:/Ondevice/0213_DHT11/0213_DHT11/0213_DHT11.srcs/sim_1/new/tb_dht11.v,1771410151,verilog,,,,tb_dht11,,,,,,,,
+C:/Ondevice/0213_DHT11/0213_DHT11/0213_DHT11.srcs/sources_1/new/dht11_sensor.v,1771408710,verilog,,C:/Ondevice/uart_stopwatch_watch/uart_stopwatch_watch/uart_stopwatch_watch.srcs/sources_1/imports/Ondevice/stopwatch_watch/stopwatch_watch.srcs/sources_1/imports/10000_counter/fnd_controller.v,,dht11_controller;tick_gen_1u,,,,,,,,
+C:/Ondevice/0213_DHT11/0213_DHT11/0213_DHT11.srcs/sources_1/new/top_dht11_fnd.v,1771405611,verilog,,C:/Ondevice/0213_DHT11/0213_DHT11/0213_DHT11.srcs/sim_1/new/tb_dht11.v,,top_dht11_fnd,,,,,,,,
+C:/Ondevice/uart_stopwatch_watch/uart_stopwatch_watch/uart_stopwatch_watch.srcs/sources_1/imports/Ondevice/stopwatch_watch/stopwatch_watch.srcs/sources_1/imports/10000_counter/btn_debounce.v,1769768414,verilog,,C:/Ondevice/0213_DHT11/0213_DHT11/0213_DHT11.srcs/sources_1/new/dht11_sensor.v,,btn_debounce,,,,,,,,
+C:/Ondevice/uart_stopwatch_watch/uart_stopwatch_watch/uart_stopwatch_watch.srcs/sources_1/imports/Ondevice/stopwatch_watch/stopwatch_watch.srcs/sources_1/imports/10000_counter/fnd_controller.v,1771338451,verilog,,C:/Ondevice/0213_DHT11/0213_DHT11/0213_DHT11.srcs/sources_1/new/top_dht11_fnd.v,,bcd;clk_div;counter_8;decoder_2x4;digit_splitter;dot_onoff_comp;fnd_controller;mux_2X1;mux_8X1,,,,,,,,

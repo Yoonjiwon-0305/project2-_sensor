@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Feb 18 22:47:30 2026
+# Process ID: 5824
+# Current directory: C:/Ondevice/sr04_test/sr04_test/sr04_test.runs/synth_1
+# Command line: vivado.exe -log top_sr04_fnd.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top_sr04_fnd.tcl
+# Log file: C:/Ondevice/sr04_test/sr04_test/sr04_test.runs/synth_1/top_sr04_fnd.vds
+# Journal file: C:/Ondevice/sr04_test/sr04_test/sr04_test.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source top_sr04_fnd.tcl -notrace

@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Feb 16 15:37:14 2026
+# Process ID: 19900
+# Current directory: C:/Ondevice/sr04_test/sr04_test/sr04_test.sim/sim_1/behav/xsim
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20660 C:\Ondevice\sr04_test\sr04_test\sr04_test.sim\sim_1\behav\xsim\tb_sr04_behav.wdb
+# Log file: C:/Ondevice/sr04_test/sr04_test/sr04_test.sim/sim_1/behav/xsim/vivado.log
+# Journal file: C:/Ondevice/sr04_test/sr04_test/sr04_test.sim/sim_1/behav/xsim\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_wave_database {C:\Ondevice\sr04_test\sr04_test\sr04_test.sim\sim_1\behav\xsim\tb_sr04_behav.wdb}
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+current_fileset: Time (s): cpu = 00:00:13 ; elapsed = 00:00:10 . Memory (MB): peak = 1018.418 ; gain = 0.000
+INFO: [Common 17-344] 'current_fileset' was cancelled
+INFO: [Common 17-344] 'open_wave_database' was cancelled
+1
+INFO: [Common 17-344] 'rdi::open_ppr_or_dcp' was cancelled
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Feb 16 15:38:56 2026...

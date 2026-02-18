@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Ondevice/project_2_uart_sensor_stopwatch_watch/project_2_uart_sensor_stopwatch_watch/project_2_uart_sensor_stopwatch_watch.srcs/sim_1/new/tb_sr04.v,1771225459,verilog,,,,tb_sr04,,,,,,,,
+C:/Ondevice/sr04_test/sr04_test/sr04_test.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Ondevice/sr04_test/sr04_test/sr04_test.srcs/sources_1/imports/Ondevice/0210_uart_rx_tx_stopwatch_watch/0210_uart_rx_tx_stopwatch_watch.srcs/sources_1/imports/Ondevice/stopwatch_watch/stopwatch_watch.srcs/sources_1/imports/10000_counter/btn_debounce.v,1769768414,verilog,,C:/Ondevice/sr04_test/sr04_test/sr04_test.srcs/sources_1/imports/Ondevice/0210_uart_rx_tx_stopwatch_watch/0210_uart_rx_tx_stopwatch_watch.srcs/sources_1/imports/Ondevice/stopwatch_watch/stopwatch_watch.srcs/sources_1/imports/10000_counter/fnd_controller.v,,btn_debounce,,,,,,,,
+C:/Ondevice/sr04_test/sr04_test/sr04_test.srcs/sources_1/imports/Ondevice/0210_uart_rx_tx_stopwatch_watch/0210_uart_rx_tx_stopwatch_watch.srcs/sources_1/imports/Ondevice/stopwatch_watch/stopwatch_watch.srcs/sources_1/imports/10000_counter/fnd_controller.v,1771220033,verilog,,C:/Ondevice/sr04_test/sr04_test/sr04_test.srcs/sources_1/imports/Ondevice/project_2_uart_sensor_stopwatch_watch/project_2_uart_sensor_stopwatch_watch.srcs/sources_1/new/sr04_controller.v,,bcd;clk_div;counter_8;decoder_2x4;digit_splitter;dot_onoff_comp;fnd_controller;mux_2X1;mux_8X1,,,,,,,,
+C:/Ondevice/sr04_test/sr04_test/sr04_test.srcs/sources_1/imports/Ondevice/project_2_uart_sensor_stopwatch_watch/project_2_uart_sensor_stopwatch_watch.srcs/sources_1/new/sr04_controller.v,1771225587,verilog,,C:/Ondevice/sr04_test/sr04_test/sr04_test.srcs/sources_1/new/top_sr04.v,,sr04_controller;tick_gen_1u,,,,,,,,
+C:/Ondevice/sr04_test/sr04_test/sr04_test.srcs/sources_1/new/top_sr04.v,1771220031,verilog,,C:/Ondevice/project_2_uart_sensor_stopwatch_watch/project_2_uart_sensor_stopwatch_watch/project_2_uart_sensor_stopwatch_watch.srcs/sim_1/new/tb_sr04.v,,top_sr04_fnd,,,,,,,,

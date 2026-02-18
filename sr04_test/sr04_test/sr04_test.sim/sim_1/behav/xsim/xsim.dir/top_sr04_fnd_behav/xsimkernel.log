@@ -1,0 +1,7 @@
+Running: xsim.dir/top_sr04_fnd_behav/xsimk.exe -simmode gui -wdb top_sr04_fnd_behav.wdb -simrunnum 0 -socket 3711
+Design successfully loaded
+Design Loading Memory Usage: 8604 KB (Peak: 8604 KB)
+Design Loading CPU Usage: 30 ms
+Simulation completed
+Simulation Memory Usage: 9320 KB (Peak: 9320 KB)
+Simulation CPU Usage: 46 ms

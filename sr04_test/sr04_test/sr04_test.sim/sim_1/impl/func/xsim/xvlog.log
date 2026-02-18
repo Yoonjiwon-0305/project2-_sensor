@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Ondevice/sr04_test/sr04_test/sr04_test.sim/sim_1/impl/func/xsim/tb_sr04_func_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module btn_debounce
+INFO: [VRFC 10-311] analyzing module clk_div
+INFO: [VRFC 10-311] analyzing module counter_8
+INFO: [VRFC 10-311] analyzing module digit_splitter
+INFO: [VRFC 10-311] analyzing module fnd_controller
+INFO: [VRFC 10-311] analyzing module sr04_controller
+INFO: [VRFC 10-311] analyzing module tick_gen_1u
+INFO: [VRFC 10-311] analyzing module top_sr04_fnd
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Ondevice/project_2_uart_sensor_stopwatch_watch/project_2_uart_sensor_stopwatch_watch/project_2_uart_sensor_stopwatch_watch.srcs/sim_1/new/tb_sr04.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_sr04
